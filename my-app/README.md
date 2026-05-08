@@ -1,16 +1,28 @@
-# React + Vite
+# 🎵 Beat — Mawazin 2026
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Application React multi-pages pour le festival Mawazin 2026 à Rabat, Maroc (19–27 juin).  
+Découvrez 30 artistes, gérez vos favoris, planifiez vos concerts et gardez une mémoire de chaque scène.
 
-Currently, two official plugins are available:
+## 🚀 Fonctionnalités
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+- **Accueil** – Présentation du festival, statistiques et concert phare du jour.
+- **Programme** – Navigation par jour (9 jours) + filtrage par genre musical.
+- **Détail artiste** – Fiche complète : bio, horaire, scène, genre, avec actions "Favori" et "J'y étais".
+- **Mon Planning** – Liste des artistes favoris organisés par jour, possibilité de retirer.
+- **Passeport Musical** – Concerts marqués "J'y étais", filtrables par genre.
 
-## React Compiler
+## 🛠️ Stack technique
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+- **React 18** + **React Router v7** (routes déclaratives)
+- **Hooks utilisés** : `useState`, `useEffect`, `useParams`, `useNavigate`, `useLocation`
+- **Context API** – Gestion centralisée des artistes, favoris et passeport
+- **LocalStorage** – Persistance des favoris et du passeport
+- **CSS personnalisé** – Design sombre inspiré de la nuit de concert à Rabat (or, vert menthe, bleu nuit)
 
-## Expanding the ESLint configuration
+## 📦 Installation
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+```bash
+git clone https://github.com/votre-username/beat-mawazin-2026.git
+cd beat-mawazin-2026
+npm install
+npm run dev

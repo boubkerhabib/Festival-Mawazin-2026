@@ -1,0 +1,274 @@
+{
+  "artists": [
+    {
+      "id": "a1",
+      "name": "Burna Boy",
+      "genre": "Afrobeats",
+      "scene": "OLM Souissi",
+      "day": "19 Juin",
+      "heure": "22h00",
+      "bio": "Burna Boy, de son vrai nom Damini Ogulu, est l'un des artistes africains les plus influents de sa génération. Originaire de Port Harcourt au Nigeria, il a révolutionné l'Afrobeats mondial avec son style unique mêlant rythmes africains, reggae et sons contemporains. Son album «African Giant» l'a propulsé sur la scène internationale, et sa victoire aux Grammy Awards en 2021 a consacré son statut de légende vivante."
+    },
+    {
+      "id": "a2",
+      "name": "Dua Lipa",
+      "genre": "Pop",
+      "scene": "OLM Souissi",
+      "day": "20 Juin",
+      "heure": "21h30",
+      "bio": "Dua Lipa est une chanteuse et compositrice britannique d'origine albanaise, devenue l'une des stars pop les plus adulées au monde. Son album «Future Nostalgia» a redéfini la pop des années 2020 avec ses influences disco et ses mélodies irrésistibles. Sa présence scénique électrisante et sa voix grave et sensuelle font de chaque concert une expérience unique."
+    },
+    {
+      "id": "a3",
+      "name": "Stromae",
+      "genre": "Pop",
+      "scene": "OLM Souissi",
+      "day": "21 Juin",
+      "heure": "22h00",
+      "bio": "Paul Van Haver, alias Stromae, est un artiste belge de génie qui mélange électronique, chanson française et influences africaines. Ses textes poignants abordent des thèmes universels — solitude, deuil, société — avec une profondeur rare dans la musique pop. Après une pause de plusieurs années, son retour sur scène avec «Multitude» a été acclamé comme l'un des événements musicaux majeurs de la décennie."
+    },
+    {
+      "id": "a4",
+      "name": "Khaled",
+      "genre": "Chaabi",
+      "scene": "Nahda",
+      "day": "22 Juin",
+      "heure": "21h00",
+      "bio": "Cheb Khaled est le roi incontesté du raï, genre musical né en Algérie dans les années 1970. Avec des tubes planétaires comme «Didi» et «Aïcha», il a fait connaître la musique maghrébine aux quatre coins du monde. Sa voix puissante et son énergie scénique incomparable font de lui une légende vivante de la musique arabe."
+    },
+    {
+      "id": "a5",
+      "name": "Yasmine Hamdan",
+      "genre": "World",
+      "scene": "Bouregreg",
+      "day": "19 Juin",
+      "heure": "20h00",
+      "bio": "Yasmine Hamdan est une artiste libanaise dont la musique mêle mélodies arabes traditionnelles et sonorités électroniques modernes. Cofondatrice du groupe culte Soap Kills, elle a développé une carrière solo remarquable, traversant les frontières musicales avec une grâce et une poésie uniques."
+    },
+    {
+      "id": "a6",
+      "name": "Oumou Sangaré",
+      "genre": "World",
+      "scene": "Bouregreg",
+      "day": "20 Juin",
+      "heure": "20h30",
+      "bio": "Oumou Sangaré est une chanteuse malienne et militante des droits des femmes, surnommée «la Rossignol du Wassoulou». Sa musique puise dans les traditions du sud du Mali pour créer un son à la fois ancré et universel. Ses chansons traitent de liberté, de mariage forcé et d'émancipation féminine avec une beauté bouleversante."
+    },
+    {
+      "id": "a7",
+      "name": "Mahmoud Guinia",
+      "genre": "Gnawa",
+      "scene": "Chellah",
+      "day": "21 Juin",
+      "heure": "19h30",
+      "bio": "Mahmoud Guinia est considéré comme l'un des plus grands maîtres du Gnawa, musique spirituelle et thérapeutique du Maroc. Fils du légendaire Boubker Guinia, il perpétue cette tradition millénaire avec une virtuosité exceptionnelle sur le guembri. Ses cérémonies de lila sont des voyages mystiques que peu d'artistes peuvent égaler."
+    },
+    {
+      "id": "a8",
+      "name": "Wizkid",
+      "genre": "Afrobeats",
+      "scene": "OLM Souissi",
+      "day": "23 Juin",
+      "heure": "22h30",
+      "bio": "Wizkid est une superstar nigériane de l'Afrobeats, connu pour sa collaboration avec Drake sur «One Dance» qui a battu tous les records. Son style musical évolue constamment, fusionnant rythmes africains, R&B et dancehall. Avec des millions de fans à travers le monde, il incarne la conquête globale de la musique africaine."
+    },
+    {
+      "id": "a9",
+      "name": "Norah Jones",
+      "genre": "Jazz",
+      "scene": "Théâtre Mohammed V",
+      "day": "19 Juin",
+      "heure": "21h00",
+      "bio": "Norah Jones est une pianiste, chanteuse et compositrice américaine dont le premier album «Come Away with Me» s'est vendu à plus de 27 millions d'exemplaires. Son jazz vocal intime et chaleureux a conquis le monde entier. Sur scène, elle crée une atmosphère d'une douceur rare, transformant chaque salle en salon particulier."
+    },
+    {
+      "id": "a10",
+      "name": "Ibrahim Maalouf",
+      "genre": "Jazz",
+      "scene": "Théâtre Mohammed V",
+      "day": "20 Juin",
+      "heure": "21h30",
+      "bio": "Ibrahim Maalouf est un trompettiste franco-libanais qui a inventé un nouveau langage musical, fusionnant jazz, musique classique et maqams orientaux. Né à Beyrouth et formé au Conservatoire de Paris, il incarne le dialogue entre Orient et Occident avec une virtuosité époustouflante."
+    },
+    {
+      "id": "a11",
+      "name": "Aya Nakamura",
+      "genre": "R&B",
+      "scene": "OLM Souissi",
+      "day": "24 Juin",
+      "heure": "22h00",
+      "bio": "Aya Nakamura est l'artiste francophone la plus écoutée au monde, un titre qu'elle porte avec fierté et humilité. Son afropop en français mêlant R&B, dancehall et influences malienne est un phénomène générationnel. Venue de Bamako via Paris, elle a révolutionné la chanson française avec sa langue inventive et ses mélodies addictives."
+    },
+    {
+      "id": "a12",
+      "name": "Saad Lamjarred",
+      "genre": "Pop",
+      "scene": "OLM Souissi",
+      "day": "25 Juin",
+      "heure": "21h00",
+      "bio": "Saad Lamjarred est l'une des stars arabes les plus populaires, dont les clips cumulent des milliards de vues sur YouTube. Avec ses tubes comme «Lm3allem» et «Casablanca», il a conquis le monde arabe et la diaspora. Sa voix généreuse et ses arrangements modernes font de lui une figure centrale de la pop arabe contemporaine."
+    },
+    {
+      "id": "a13",
+      "name": "Balti",
+      "genre": "Hip-Hop",
+      "scene": "Nahda",
+      "day": "23 Juin",
+      "heure": "21h30",
+      "bio": "Balti est le rappeur tunisien le plus célèbre d'Afrique du Nord, auteur du tube viral «Ya Lili» qui a fait danser le monde entier. Son rap en dialecte tunisien et en français témoigne d'une créativité débordante et d'une connexion profonde avec sa génération."
+    },
+    {
+      "id": "a14",
+      "name": "Hamza",
+      "genre": "Hip-Hop",
+      "scene": "Nahda",
+      "day": "24 Juin",
+      "heure": "22h00",
+      "bio": "Hamza est un rappeur belgo-marocain de Bruxelles, figure de proue du rap mélodique européen. Son style unique mêle trap, R&B et références à ses origines marocaines. Avec une voix hypnotique et une écriture soignée, il représente une nouvelle génération d'artistes qui naviguent entre cultures avec fluidité."
+    },
+    {
+      "id": "a15",
+      "name": "Maâlem Abdeslam Alikane",
+      "genre": "Gnawa",
+      "scene": "Chellah",
+      "day": "22 Juin",
+      "heure": "19h00",
+      "bio": "Maâlem Abdeslam Alikane est un maître gnawa de Marrakech dont l'art transmis de génération en génération touche à l'essence même du patrimoine musical marocain. Ses performances mêlent rite, transe et musique dans une unité indissociable, offrant aux spectateurs une plongée dans la spiritualité africaine du Maroc."
+    },
+    {
+      "id": "a16",
+      "name": "Coldplay",
+      "genre": "Pop",
+      "scene": "OLM Souissi",
+      "day": "26 Juin",
+      "heure": "22h00",
+      "bio": "Coldplay est l'un des groupes de rock pop les plus populaires au monde, connu pour ses concerts spectaculaires et ses mélodies émotionnelles. Depuis «Yellow» jusqu'à «Music of the Spheres», leur parcours musical est une odyssée planétaire. Leurs shows sont des expériences sensorielles totales avec des lumières LED, des feux d'artifice et une connexion émotionnelle unique."
+    },
+    {
+      "id": "a17",
+      "name": "Mohammed Rouicha",
+      "genre": "Chaabi",
+      "scene": "Nahda",
+      "day": "19 Juin",
+      "heure": "20h30",
+      "bio": "Mohammed Rouicha était le maître incontesté de la musique amazighe du Moyen Atlas. Ses chansons d'amour en tamazight ont traversé les générations et continuent d'émouvoir profondément le public marocain. Ce concert hommage réunira ses proches et disciples pour célébrer son œuvre immense."
+    },
+    {
+      "id": "a18",
+      "name": "Soolking",
+      "genre": "Hip-Hop",
+      "scene": "Nahda",
+      "day": "25 Juin",
+      "heure": "22h00",
+      "bio": "Soolking est un rappeur algérien dont le tube «Guerilla» a conquis la France et le monde arabe. Son style mêle trap algérienne, influences françaises et rythmes orientaux, créant un son unique qui parle à des millions de jeunes maghrébins."
+    },
+    {
+      "id": "a19",
+      "name": "Fairouz Tribute",
+      "genre": "World",
+      "scene": "Théâtre Mohammed V",
+      "day": "21 Juin",
+      "heure": "20h00",
+      "bio": "Cet hommage exceptionnel à la diva libanaise Fairouz réunit un orchestre symphonique et des solistes invités pour revisiter les plus grands classiques de la chanteuse. Un voyage musical à travers l'âme arabe, entre nostalgie et émerveillement."
+    },
+    {
+      "id": "a20",
+      "name": "Elida Almeida",
+      "genre": "World",
+      "scene": "Plage de Salé",
+      "day": "22 Juin",
+      "heure": "20h00",
+      "bio": "Elida Almeida est une chanteuse cap-verdienne qui incarne la renaissance de la musique de son archipel. Sa voix puissante et ses textes en créole cap-verdien racontent des histoires d'exil, d'amour et de résistance avec une intensité bouleversante."
+    },
+    {
+      "id": "a21",
+      "name": "Hoba Hoba Spirit",
+      "genre": "Chaabi",
+      "scene": "Plage de Salé",
+      "day": "23 Juin",
+      "heure": "21h00",
+      "bio": "Hoba Hoba Spirit est le groupe de rock marocain le plus mythique, fondé à Casablanca en 1997. Leur fusion de chaabi marocain, de reggae et de rock en darija est devenue la bande-son d'une génération. Leurs concerts sont des fêtes populaires où traditions et modernité se retrouvent avec joie."
+    },
+    {
+      "id": "a22",
+      "name": "Nas",
+      "genre": "Hip-Hop",
+      "scene": "OLM Souissi",
+      "day": "27 Juin",
+      "heure": "22h00",
+      "bio": "Nas est une légende vivante du hip-hop américain dont l'album «Illmatic» est considéré comme l'un des meilleurs de l'histoire du rap. Trente ans de carrière plus tard, son flow impeccable et sa plume acérée restent une référence absolue. Ce concert de clôture sera un moment historique pour le rap mondial."
+    },
+    {
+      "id": "a23",
+      "name": "Aziz Maraka",
+      "genre": "Pop",
+      "scene": "Théâtre Mohammed V",
+      "day": "22 Juin",
+      "heure": "21h00",
+      "bio": "Aziz Maraka est un chanteur jordanien dont la pop arabe raffinée a conquis des millions de fans dans le monde arabe. Sa voix claire et ses compositions élégantes font de lui l'un des artistes les plus attachants de sa génération."
+    },
+    {
+      "id": "a24",
+      "name": "Sabah Fakhri Tribute",
+      "genre": "World",
+      "scene": "Théâtre Mohammed V",
+      "day": "23 Juin",
+      "heure": "20h30",
+      "bio": "Hommage au grand Sabah Fakhri, l'un des derniers représentants du muwashshah syrien et de la musique classique arabe. Un ensemble de musiciens d'exception interprétera les œuvres du maître d'Alep dans la beauté intime du Théâtre Mohammed V."
+    },
+    {
+      "id": "a25",
+      "name": "Tiken Jah Fakoly",
+      "genre": "World",
+      "scene": "Bouregreg",
+      "day": "24 Juin",
+      "heure": "20h00",
+      "bio": "Tiken Jah Fakoly est le prince du reggae africain, voix de la conscience du continent. Originaire de Côte d'Ivoire, ses textes engagés dénoncent la corruption et réclament la dignité africaine. Sur scène, il crée une chaleur communicative qui unit toujours public et artiste dans une même vibration."
+    },
+    {
+      "id": "a26",
+      "name": "Hind Ennaira",
+      "genre": "Chaabi",
+      "scene": "Scène de Quartier",
+      "day": "25 Juin",
+      "heure": "19h00",
+      "bio": "Hind Ennaira est une jeune chanteuse marocaine qui réinterprète le chaabi traditionnel avec une modernité respectueuse. Elle représente cette nouvelle génération qui aime profondément les racines tout en osant les transformer."
+    },
+    {
+      "id": "a27",
+      "name": "Doums",
+      "genre": "Hip-Hop",
+      "scene": "Scène de Quartier",
+      "day": "26 Juin",
+      "heure": "20h00",
+      "bio": "Doums est un rappeur français membre du collectif 75000 et du groupe Kekra. Son style minimaliste et introspectif représente un courant du rap français underground qui refuse les compromis et cherche l'authenticité avant tout."
+    },
+    {
+      "id": "a28",
+      "name": "Lakhdar Khloufi",
+      "genre": "Chaabi",
+      "scene": "Plage de Salé",
+      "day": "26 Juin",
+      "heure": "20h30",
+      "bio": "Lakhdar Khloufi est un chanteur algérien spécialiste du chaabi algérois, genre musical populaire né dans les ruelles d'Alger. Sa voix grave et expressive transporte l'auditeur dans l'atmosphère nostalgique et chaleureuse de la Casbah."
+    },
+    {
+      "id": "a29",
+      "name": "Kery James",
+      "genre": "Hip-Hop",
+      "scene": "Nahda",
+      "day": "27 Juin",
+      "heure": "21h00",
+      "bio": "Kery James est l'un des rappeurs français les plus respectés, connu pour ses textes engagés sur les quartiers populaires, la foi et la justice sociale. Auteur du classique «À l'ombre du show business», il représente la conscience du rap français avec une intégrité remarquable."
+    },
+    {
+      "id": "a30",
+      "name": "Gnawa Diffusion",
+      "genre": "Gnawa",
+      "scene": "Chellah",
+      "day": "27 Juin",
+      "heure": "20h00",
+      "bio": "Gnawa Diffusion est un groupe fondé par Amazigh Kateb, fils du grand écrivain Kateb Yacine. Mêlant musique gnawa, reggae et rock, ils incarnent parfaitement l'héritage musical nord-africain réinventé. Leur concert de clôture au Chellah promet une célébration magique."
+    }
+  ]
+}
